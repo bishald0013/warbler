@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Caveat:wght@700&family=Dancing+Script:wght@700&family=Montserrat:wght@600;700&family=Poppins:wght@200&family=Roboto:wght@400;500&display=swap');
+
+body {
+    background-color: 
+    #15460421;
+} 
+
+.image-fluid{
+    height: 52rem;
+}
+
+.text-col{
+    margin-top: 8rem;
+}
+
+
+h1 {
+    color: rgba(10, 57, 21, 1);
+    font-family: 'Roboto', sans-serif;
+    Font-size: 4rem;
+}
+
+.col > p {
+    color: rgba(10, 57, 21, 1);
+    font-family: 'Roboto', sans-serif;
+    Font-size: 40px; 
+}
+
+
+
+
+@media (max-width: 1000px) {
+    
+    h1 {
+        text-align: center;
+    }
+
+
+}

@@ -1,0 +1,28 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-custom{
+    background-color: 154604;
+}
+
+.navbar-brand {
+   
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+}
+
+.navbar-nav {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 38px;
+}
+
+.navbar-nav >li > a {
+    margin-right: 2.125rem;
+    margin-left: 0.75rem;
+}
